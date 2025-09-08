@@ -16,6 +16,7 @@
     "openai": "^4.20.0",
     "axios": "^1.6.0",
     "@supabase/supabase-js": "^2.39.0",
+    "@stripe/stripe-js": "^2.4.0",
     "recharts": "^2.8.0",
     "react-hot-toast": "^2.4.1"
   },
